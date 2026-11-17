@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">connectorAccount</value>
+  <value name="node_subtype">streamingAccount</value>
+  <value name="node_nsName">project.rithesh_csc_2.streaming.connections:EmbeddedMessaging</value>
+  <value name="node_pkg">Rithesh_CSC_2Project</value>
+  <value name="is_public">false</value>
+  <value name="assetId">Rithesh_CSC_2Project.project.rithesh_csc_2.streaming.connections:EmbeddedMessaging</value>
+  <value name="connectionName">EmbeddedMessaging</value>
+  <value name="description">This is the default embedded messaging account</value>
+  <value name="providerURI">nhps://f02-m-stage00-um-svc-http.test-m.svc.cluster.local:443/</value>
+  <value name="clientId">EMf315fa87deec4be1b1efb262bf451cd5</value>
+  <value name="securityProtocol"></value>
+  <value name="keystoreAlias"></value>
+  <value name="keystoreKeyAlias"></value>
+  <value name="truststoreAlias"></value>
+  <value name="additionalProperties">streaming.connection.factory=embeddedMessaging</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">abhk</value>
+    <value name="modifiedBy">abhk</value>
+    <value name="createdDate">2026-11-17T12:27:35.361626508Z</value>
+    <value name="lastModifiedDate">2026-11-17T12:27:35.361626508Z</value>
+  </record>
+</Values>
