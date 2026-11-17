@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">project.rithesh_csc_2</value>
+  <value name="node_pkg">Rithesh_CSC_2Project</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">abhk</value>
+    <value name="modifiedBy">abhk</value>
+    <value name="createdDate">2026-11-17T12:27:32.835646494Z</value>
+    <value name="lastModifiedDate">2026-11-17T12:27:32.835646494Z</value>
+  </record>
+  <value name="is_public">false</value>
+</Values>
