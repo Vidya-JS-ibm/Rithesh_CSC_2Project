@@ -15,6 +15,18 @@ services:
     version: "1.0"
   - name: WmSalesforceProvider
     version: 12.0.0.0.25
+- serviceName: project.rithesh_csc_2.integrations:query_11
+  packages:
+  - name: Rithesh_CSC_2Project
+    version: "1.0"
+  - name: WmSalesforceProvider
+    version: 12.0.0.0.25
+- serviceName: project.rithesh_csc_2.WmSalesforceProvider.com_webmethods_cloudstreams_salesforce_v53.operations.actions:query_11
+  packages:
+  - name: Rithesh_CSC_2Project
+    version: "1.0"
+  - name: WmSalesforceProvider
+    version: 12.0.0.0.25
 - serviceName: project.rithesh_csc_2.streaming.connections:EmbeddedMessaging
   packages:
   - name: Rithesh_CSC_2Project
