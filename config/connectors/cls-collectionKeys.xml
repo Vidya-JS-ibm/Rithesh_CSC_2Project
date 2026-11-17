@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="project.rithesh_csc_2.WmSalesforceProvider.com_webmethods_cloudstreams_salesforce_v53.operations.actions:query_11" connectorServiceName="project.rithesh_csc_2.WmSalesforceProvider.com_webmethods_cloudstreams_salesforce_v53.operations.actions:query_11"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
