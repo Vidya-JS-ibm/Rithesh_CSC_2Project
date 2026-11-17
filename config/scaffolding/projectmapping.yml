@@ -1,0 +1,7 @@
+version: "1.0"
+projectName: Rithesh_CSC_2Project
+runtimes:
+- runtimeAlias: CSC_ERT_OONOV17
+  assets:
+  - name: Rithesh_CSC_2Project.project.rithesh_csc_2.WmSalesforceProvider.com_webmethods_cloudstreams_salesforce_v53.connections:conn_EER
+    type: connection
