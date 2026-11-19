@@ -3,7 +3,10 @@ info:
   model: int-scaffold
 packages:
 - name: Rithesh_CSC_2Project
-  gitBranch: master
+  gitServerName: vjs_shared
+  gitUrl: https://github.com/Vidya-JS-ibm
+  gitUsername: Vidya-JS-ibm
+  gitBranch: main
 - name: WmSalesforceProvider
   version: 12.0.0.0.25
   wpmServer: https://packages.webmethods.io
